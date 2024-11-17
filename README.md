@@ -31,3 +31,9 @@ npm run build
 ```bash
 npm run start
 ```
+
+OR
+
+```bash
+npm run dev
+```
