@@ -13,7 +13,7 @@ A web application built in Next.js that allows users to filter vehicles by make 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/jesusmiguel03/car-dealer-app.git && cd car-dealer-app && code car-dealer-app
+git clone https://github.com/JesusMiguel03/car-dealer-app.git && cd car-dealer-app && code car-dealer-app
 ```
 
 ### 2. Install dependencies
